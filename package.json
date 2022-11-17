@@ -1,0 +1,22 @@
+{
+  "name": "zero_to_hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamxasan1/zero_to_hero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamxasan1/zero_to_hero/issues"
+  },
+  "homepage": "https://github.com/iamxasan1/zero_to_hero#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
